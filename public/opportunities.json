@@ -13,7 +13,7 @@
     "startDate": "2026-12-31",
     "endsAt": "2026-12-31T23:59:59+08:00",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=38084",
-    "verified": "2026-11-13T04:44:29.746Z"
+    "verified": "2026-11-13T07:06:51.354Z"
   },
   {
     "id": "cityu-ca1e9306673a171c",
@@ -32,7 +32,7 @@
     "deadlineLabel": "11 December 2026",
     "registrationUrl": "https://forms.gle/tcbGETfRXQftLUXe7",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40450",
-    "verified": "2026-11-13T04:44:29.364Z"
+    "verified": "2026-11-13T07:06:50.957Z"
   },
   {
     "id": "cityu-6375b81106c6899e",
@@ -48,7 +48,187 @@
     "startDate": "2026-11-13",
     "endsAt": "2026-11-13T23:59:59+08:00",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40416",
-    "verified": "2026-11-13T04:44:28.859Z"
+    "verified": "2026-11-13T07:06:50.632Z"
+  },
+  {
+    "id": "hackertrip-a43444acd377319d",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "Delin Residency十周驻场共创计划（深圳）",
+    "org": "HackerTrip",
+    "date": "Nov 1, 2026 – Jan 9, 2027",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-fc16c17d1a7a45f5",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "OJO Buildathon 2026 · 宠物黑客松",
+    "org": "HackerTrip",
+    "date": "Oct 18–18, 2026",
+    "startDate": "2026-10-18",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-a487022cb7302d03",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "创业能力AI+OPC训练营",
+    "org": "HackerTrip",
+    "date": "Oct 17 – Nov 8, 2026",
+    "startDate": "2026-10-17",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-7f72483ff814a62d",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "深圳 Solar 黑客之家 Solar Hacker House Shenzhen",
+    "org": "HackerTrip",
+    "date": "Oct 9–11, 2026",
+    "startDate": "2026-10-09",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-dd3a5f60626a5cd3",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "GOSIM 巡天智能体黑客松（Agentic Observer）",
+    "org": "HackerTrip",
+    "date": "Oct 1–17, 2026",
+    "startDate": "2026-10-01",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-2ad8b2b14c7d79ac",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "进化酒馆·攻壳机动队主题 Agent 黑客松",
+    "org": "HackerTrip",
+    "date": "Sep 21–24, 2026",
+    "startDate": "2026-09-21",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-cb650275fe3f8e1b",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "BAYTECH国际湾区创科节「极客黑客松」",
+    "org": "HackerTrip",
+    "date": "Sep 19–20, 2026",
+    "startDate": "2026-09-19",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-cbbeb66e19098f42",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "EonveraX Builders’  Day",
+    "org": "HackerTrip",
+    "date": "Sep 12–13, 2026",
+    "startDate": "2026-09-12",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-c96592c4800a0163",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "REBUILD-Z × GEIA AI 黑客松 S2",
+    "org": "HackerTrip",
+    "date": "Sep 8–11, 2026",
+    "startDate": "2026-09-08",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-723a3466e44da7c7",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "Anker 首届黑客松挑战赛",
+    "org": "HackerTrip",
+    "date": "Sep 7 – Oct 17, 2026",
+    "startDate": "2026-09-07",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-7bdd726c61993c3a",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "GOSIM Shenzhen 2026 智能体软件工厂黑客松",
+    "org": "HackerTrip",
+    "date": "Sep 7 – Oct 17, 2026",
+    "startDate": "2026-09-07",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
+    "verified": "2026-11-13T07:06:47.685Z"
+  },
+  {
+    "id": "hackertrip-3d8c863dea5afc33",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "2026硬件黑客松（极客营）",
+    "org": "HackerTrip",
+    "date": "Dec 2–6, 2026",
+    "startDate": "2026-12-02",
+    "tags": [],
+    "status": "Open",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
+    "verified": "2026-11-13T07:06:47.685Z",
+    "registrationUrl": "https://wecruit.hotjob.cn/SU623d608e0dcad4729000da88/pb/posDetail.html?postId=6a9a703e42efacd5903fa060&postType=intern&utm_source=hackertrip&utm_medium=referral&utm_campaign=hackathon_ht-2026-2beb1cb6_detail"
   },
   {
     "id": "cuhk-6c537d8bbc97814d",
@@ -63,7 +243,7 @@
     "deadline": "2026-07-31T15:59:59.000Z",
     "deadlineLabel": "2026-07-31",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
-    "verified": "2026-11-13T04:44:28.297Z"
+    "verified": "2026-11-13T07:06:49.987Z"
   },
   {
     "id": "cuhk-8514c23534b03367",
@@ -79,7 +259,7 @@
     "deadlineLabel": "19 October 2026",
     "registrationUrl": "https://www.gonghangbei.com/",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
-    "verified": "2026-11-13T04:44:28.037Z"
+    "verified": "2026-11-13T07:06:49.746Z"
   },
   {
     "id": "hkust-248a9beb1556f949",
@@ -92,200 +272,7 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://calendar.hkust.edu.hk/events/hkust-ias-asia-pacific-workshop-frontiers-quantum-matter-0",
-    "verified": "2026-11-13T04:44:27.422Z"
-  },
-  {
-    "id": "hackertrip-3d8c863dea5afc33",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "2026硬件黑客松（极客营）",
-    "org": "HackerTrip",
-    "date": "Dec 2–6, 2026",
-    "startDate": "2026-12-02",
-    "tags": [],
-    "status": "Open",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
-    "verified": "2026-11-13T04:44:25.386Z",
-    "registrationUrl": "https://wecruit.hotjob.cn/SU623d608e0dcad4729000da88/pb/posDetail.html?postId=6a9a703e42efacd5903fa060&postType=intern&utm_source=hackertrip&utm_medium=referral&utm_campaign=hackathon_ht-2026-2beb1cb6_detail"
-  },
-  {
-    "id": "hackertrip-a43444acd377319d",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "Delin Residency十周驻场共创计划（深圳）",
-    "org": "HackerTrip",
-    "date": "Nov 1, 2026 – Jan 9, 2027",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-fc16c17d1a7a45f5",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "OJO Buildathon 2026 · 宠物黑客松",
-    "org": "HackerTrip",
-    "date": "Oct 18–18, 2026",
-    "startDate": "2026-10-18",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-a487022cb7302d03",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "创业能力AI+OPC训练营",
-    "org": "HackerTrip",
-    "date": "Oct 17 – Nov 8, 2026",
-    "startDate": "2026-10-17",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-7f72483ff814a62d",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "深圳 Solar 黑客之家 Solar Hacker House Shenzhen",
-    "org": "HackerTrip",
-    "date": "Oct 9–11, 2026",
-    "startDate": "2026-10-09",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-dd3a5f60626a5cd3",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "GOSIM 巡天智能体黑客松（Agentic Observer）",
-    "org": "HackerTrip",
-    "date": "Oct 1–17, 2026",
-    "startDate": "2026-10-01",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-2ad8b2b14c7d79ac",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "进化酒馆·攻壳机动队主题 Agent 黑客松",
-    "org": "HackerTrip",
-    "date": "Sep 21–24, 2026",
-    "startDate": "2026-09-21",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-cb650275fe3f8e1b",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "BAYTECH国际湾区创科节「极客黑客松」",
-    "org": "HackerTrip",
-    "date": "Sep 19–20, 2026",
-    "startDate": "2026-09-19",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-cbbeb66e19098f42",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "EonveraX Builders’  Day",
-    "org": "HackerTrip",
-    "date": "Sep 12–13, 2026",
-    "startDate": "2026-09-12",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-c96592c4800a0163",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "REBUILD-Z × GEIA AI 黑客松 S2",
-    "org": "HackerTrip",
-    "date": "Sep 8–11, 2026",
-    "startDate": "2026-09-08",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-723a3466e44da7c7",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "Anker 首届黑客松挑战赛",
-    "org": "HackerTrip",
-    "date": "Sep 7 – Oct 17, 2026",
-    "startDate": "2026-09-07",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hackertrip-7bdd726c61993c3a",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "GOSIM Shenzhen 2026 智能体软件工厂黑客松",
-    "org": "HackerTrip",
-    "date": "Sep 7 – Oct 17, 2026",
-    "startDate": "2026-09-07",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
-    "verified": "2026-11-13T04:44:25.386Z"
-  },
-  {
-    "id": "hkust-71daf380434ebde4",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Define Your HKUST Fun - Graphic Design Competition",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
-    "verified": "2026-11-13T04:44:27.422Z"
+    "verified": "2026-11-13T07:06:48.608Z"
   },
   {
     "id": "cuhk-ea5e6faf7689899b",
@@ -302,7 +289,7 @@
     "eligibility": "】 參賽主體須為在本屆大賽報名截止前尚未注冊企業的團隊，或已注冊但融資階段未超過兩輪（即種子輪、天使輪）的初創企業。 【",
     "registrationUrl": "https://fairylakecompetition.cuhk.edu.cn/home",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/fairy-lake-2026",
-    "verified": "2026-11-13T04:44:27.783Z"
+    "verified": "2026-11-13T07:06:49.510Z"
   },
   {
     "id": "cuhk-66b063a475cce337",
@@ -318,67 +305,20 @@
     "deadlineLabel": "30 November 2026",
     "registrationUrl": "https://awnjufzky2h.feishu.cn/share/base/form/shrcn9Y3Mawe4TYgMH4FiIq3aYe",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-changjiang-cup-2026-global-ai-protein-design-challenge",
-    "verified": "2026-11-13T04:44:27.528Z"
+    "verified": "2026-11-13T07:06:49.265Z"
   },
   {
-    "id": "cse-369338abb8efbbd2",
+    "id": "hkust-71daf380434ebde4",
     "cities": [
       "Hong Kong"
     ],
-    "category": "Internships",
-    "title": "2027 Hong Kong Spring Internship Program",
-    "org": "Ernst & Young Group Limited",
+    "category": "Other",
+    "title": "Define Your HKUST Fun - Graphic Design Competition",
+    "org": "HKUST University Event Calendar",
     "tags": [],
     "status": "Unknown",
-    "deadline": "2026-11-30T23:59:59+08:00",
-    "deadlineLabel": "2026-11-30",
-    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3628",
-    "verified": "2026-11-13T04:44:27.445Z"
-  },
-  {
-    "id": "cse-91f760e6dbfe62ad",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Internships",
-    "title": "2027 Applied AI Engineer Intern, Hong Kong",
-    "org": "Millennium Capital Management (Hong Kong) Limited",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-25T23:59:59+08:00",
-    "deadlineLabel": "2026-11-25",
-    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3625",
-    "verified": "2026-11-13T04:44:27.445Z"
-  },
-  {
-    "id": "cse-f14f024111b20b0d",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Internships",
-    "title": "2027 Quantitative Researcher Intern, Hong Kong",
-    "org": "Millennium Capital Management (Hong Kong) Limited",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-25T23:59:59+08:00",
-    "deadlineLabel": "2026-11-25",
-    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3624",
-    "verified": "2026-11-13T04:44:27.445Z"
-  },
-  {
-    "id": "cse-3a361a6f14eaa6ab",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Internships",
-    "title": "2027 Quantitative Developer Intern, Hong Kong",
-    "org": "Millennium Capital Management (Hong Kong) Limited",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-25T23:59:59+08:00",
-    "deadlineLabel": "2026-11-25",
-    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3623",
-    "verified": "2026-11-13T04:44:27.445Z"
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
+    "verified": "2026-11-13T07:06:48.608Z"
   },
   {
     "id": "hku-tec-4cbf6c840fc616a9",
@@ -393,7 +333,7 @@
     "status": "Unknown",
     "sourceUrl": "https://www.jumpstarter.hk/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-6aa365cbd83a9bb8",
@@ -410,7 +350,7 @@
     "deadlineLabel": "28 February 2027",
     "sourceUrl": "https://www.hultprize.org/en/register/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-0367df7c8a16b263",
@@ -427,7 +367,7 @@
     "deadlineLabel": "6 January 2026",
     "sourceUrl": "https://tec.hku.hk/event/cupp2025/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-801f0e7c0b920045",
@@ -444,7 +384,7 @@
     "deadlineLabel": "13 November 2026",
     "sourceUrl": "https://www.samsung.com/hk/offer/solvefortomorrow/?srsltid=AYCX9vJoRsnPzTWhXx-_6AlPCHa3I-PvXw4FjO2KbHu1YHD0-vq3dYr3",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-26ec56780b36b195",
@@ -461,7 +401,7 @@
     "deadlineLabel": "4 November 2026",
     "sourceUrl": "https://eonetwork.org/gsea/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-c1e053e4a5d30503",
@@ -478,7 +418,7 @@
     "deadlineLabel": "26 October 2026",
     "sourceUrl": "https://hksec.hk/zh/homepage-zh/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-654c2d3d389be375",
@@ -495,7 +435,7 @@
     "deadlineLabel": "18 October 2026",
     "sourceUrl": "https://www.gonghangbei.com/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-d9fd8fb3f8177a7b",
@@ -512,7 +452,7 @@
     "deadlineLabel": "4 August 2026",
     "sourceUrl": "https://mp.weixin.qq.com/s/TF9w28jNRzIhSbZ-vusF3w?from=groupmessage&isappinstalled=0&scene=1&clicktime=1782445534&enterid=1782445534",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-d07c45300cc44684",
@@ -529,7 +469,7 @@
     "deadlineLabel": "20 July 2026",
     "sourceUrl": "https://icta.itda.hk/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-2e50295360e224cc",
@@ -546,7 +486,7 @@
     "deadlineLabel": "30 March 2026",
     "sourceUrl": "https://www.hkchallengeplus.com/en/application-info/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-9e5ce7e933057db7",
@@ -563,7 +503,7 @@
     "deadlineLabel": "2 March 2026",
     "sourceUrl": "https://tec.hku.hk/event/cupp2026/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "hku-tec-9f442197e8ba1974",
@@ -580,7 +520,7 @@
     "deadlineLabel": "21 November 2025",
     "sourceUrl": "https://hkclubs.samsung.com/hk_en/offer/solvefortomorrow2025/",
     "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T04:44:26.300Z"
+    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "ec-428d80d24649670e",
@@ -595,7 +535,7 @@
     "deadline": "2026-11-20T09:30:00Z",
     "deadlineLabel": "20 Nov 2026 - 17:30",
     "sourceUrl": "https://ec.hkust.edu.hk/events/entrepreneur-day-2026",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-5ac482582d5e8b66",
@@ -610,7 +550,7 @@
     "deadline": "2026-11-22T15:59:00Z",
     "deadlineLabel": "22 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/application-ccmf-and-cip-feb-2027-intake-cyberport-entrepreneurship-programme-information",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-76b79ee45844c4f6",
@@ -625,7 +565,7 @@
     "deadline": "2026-11-25T04:00:00Z",
     "deadlineLabel": "25 Nov 2026 - 12:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/orbis-future-vision-leaders-2627",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-d5f4352f0d0fc03f",
@@ -640,7 +580,7 @@
     "deadline": "2026-07-05T15:59:59Z",
     "deadlineLabel": "05 Jul 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-dream-builder",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-95fd638706fa53b1",
@@ -655,7 +595,7 @@
     "deadline": "2026-10-25T15:59:59Z",
     "deadlineLabel": "25 Oct 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-gba-learning-trip-xianggangkejidaxue-1",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-39099cebb402f6bd",
@@ -670,22 +610,7 @@
     "deadline": "2026-11-11T15:59:00Z",
     "deadlineLabel": "11 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-mentorship-network-pitching-skills-workshop",
-    "verified": "2026-11-13T04:44:26.247Z"
-  },
-  {
-    "id": "ec-a2d72fbc37e4f1c2",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop",
-    "org": "HKUST Entrepreneurship Center",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-15T15:59:59Z",
-    "deadlineLabel": "15 Nov 2026 - 23:59",
-    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-13afea78d408ba4b",
@@ -700,7 +625,7 @@
     "deadline": "2026-11-17T15:59:00Z",
     "deadlineLabel": "17 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/talk-beyond-patent-filing-ip-strategy-and-gba-essentials-startup-founders",
-    "verified": "2026-11-13T04:44:26.247Z"
+    "verified": "2026-11-13T07:06:48.290Z"
   },
   {
     "id": "ec-54f65c11dc2aebec",
@@ -715,6 +640,96 @@
     "deadline": "2026-11-18T15:59:59Z",
     "deadlineLabel": "18 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/friday-dreamer-series-turn-passion-business-antipixel",
+    "verified": "2026-11-13T07:06:48.290Z"
+  },
+  {
+    "id": "ec-00b7457a05aca712",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop & Hong Kong Semi Final",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-15T15:59:59Z",
+    "deadlineLabel": "15 Nov 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop-hong-kong-semi-final",
+    "verified": "2026-11-13T07:06:48.290Z"
+  },
+  {
+    "id": "cse-369338abb8efbbd2",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Internships",
+    "title": "2027 Hong Kong Spring Internship Program",
+    "org": "Ernst & Young Group Limited",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-30T23:59:59+08:00",
+    "deadlineLabel": "2026-11-30",
+    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3628",
+    "verified": "2026-11-13T07:06:48.255Z"
+  },
+  {
+    "id": "cse-91f760e6dbfe62ad",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Internships",
+    "title": "2027 Applied AI Engineer Intern, Hong Kong",
+    "org": "Millennium Capital Management (Hong Kong) Limited",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-25T23:59:59+08:00",
+    "deadlineLabel": "2026-11-25",
+    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3625",
+    "verified": "2026-11-13T07:06:48.255Z"
+  },
+  {
+    "id": "cse-f14f024111b20b0d",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Internships",
+    "title": "2027 Quantitative Researcher Intern, Hong Kong",
+    "org": "Millennium Capital Management (Hong Kong) Limited",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-25T23:59:59+08:00",
+    "deadlineLabel": "2026-11-25",
+    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3624",
+    "verified": "2026-11-13T07:06:48.255Z"
+  },
+  {
+    "id": "cse-3a361a6f14eaa6ab",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Internships",
+    "title": "2027 Quantitative Developer Intern, Hong Kong",
+    "org": "Millennium Capital Management (Hong Kong) Limited",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-25T23:59:59+08:00",
+    "deadlineLabel": "2026-11-25",
+    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3623",
+    "verified": "2026-11-13T07:06:48.255Z"
+  },
+  {
+    "id": "ec-a2d72fbc37e4f1c2",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-15T15:59:59Z",
+    "deadlineLabel": "15 Nov 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop",
     "verified": "2026-11-13T04:44:26.247Z"
   },
   {
