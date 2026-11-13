@@ -5,3 +5,5 @@
 .eligibility{font-size:13px;color:#424242;margin-top:12px}.deadline a{display:block;color:#0f6cbd;font-size:13px;margin-top:10px;text-decoration:none}.deadline a:hover{text-decoration:underline}.deadline span:last-child{margin-top:10px;font-size:11px}
 .heading-actions{display:flex;gap:8px}.sync-error{padding:12px;background:#fdf3f4;color:#a4262c;margin-bottom:16px;border-radius:4px;font-size:14px}
 .mail-controls{background:#fff;border:1px solid #e0e0e0;border-radius:8px;padding:16px;margin-bottom:20px;font-size:14px}.mail-controls strong{display:block;margin-bottom:8px}.mail-controls p{margin:8px 0;color:#424242}.mail-controls p strong{display:inline}.mail-controls a{color:#0f6cbd}.mail-buttons{display:flex;gap:8px}
+
+.mobile-nav{display:none}@media(max-width:760px){.mobile-nav{display:flex;gap:4px;margin-bottom:20px}}

@@ -24,7 +24,7 @@ The schedule filter uses the weekly grid only when a source provides an unambigu
 
 ## Mailbox
 
-The initial private mailbox records are a one-time snapshot imported using the connected Outlook account. They do not refresh through that connection automatically. Imported records contain a message subject and link but do not store email bodies. They are visible only through the locally running application and remain private to the local macOS account; this is not a substitute for server-side authentication on a shared or hosted deployment.
+The mailbox records are a one-time snapshot imported using the connected Outlook account. The snapshot is also published on GitHub Pages at the owner’s request. It includes message subjects and Outlook links, but not email bodies. Outlook links still require access to the original account. The snapshot does not update automatically.
 
 Automatic mailbox syncing has been deferred. The current records are a one-time snapshot and can be removed from the Mailbox view.
 
@@ -37,7 +37,7 @@ npm run build
 
 ## GitHub Pages
 
-The public build is a static site. GitHub Actions refreshes public sources and publishes a JSON snapshot daily; the snapshot contains no mailbox records. The visitor's profile, saved items and availability remain in their own browser. Data is only as current and complete as its sources. The public site has no mailbox connection or server-side account. Scheduled Actions may run late, and a failed source retains its previous public records.
+The public build is a static site. GitHub Actions refreshes public sources and publishes a JSON snapshot daily. A separate mailbox snapshot is published with the site at the owner’s request; it is not refreshed automatically. The visitor's profile, saved items and availability remain in their own browser. Data is only as current and complete as its sources. The public site has no live mailbox connection or server-side account. Scheduled Actions may run late, and a failed source retains its previous public records.
 
 To build the public version locally:
 
