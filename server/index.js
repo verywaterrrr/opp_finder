@@ -1,0 +1,28 @@
+import express from 'express';
+import { createStore } from './store.js';
+import { refreshCalendar, refreshShenzhen, refreshInternships, refreshHkuCompetitions, refreshEntrepreneurshipEvents, refreshCuhk, refreshCityu } from './discovery.js';
+import { createMailService } from './mail.js';
+import { opportunities } from '../src/lib/opportunities.js';
+const app=express(),store=createStore(process.env.DATA_PATH||'data/opportunities.sqlite'),port=Number(process.env.PORT||5173);
+const mail=createMailService(store);
+for(const item of opportunities) if(!store.list().some(existing=>existing.id===item.id))store.upsert(item);
+app.use((req,res,next)=>{const host=req.headers.host||'';if(!/^(localhost|127\.0\.0\.1)(:\d+)?$/.test(host))return res.sendStatus(403);const origin=req.headers.origin;if(origin&&!/^http:\/\/(localhost|127\.0\.0\.1):(?:5173|5174)$/.test(origin))return res.sendStatus(403);next()});
+app.use(express.json({limit:'32kb'}));
+app.use('/api',(_req,res,next)=>{res.set('Cache-Control','no-store');next()});
+app.get('/api/mail/status',(_req,res)=>res.json(mail.status()));
+app.post('/api/mail/connect',(_req,res)=>{try{mail.connect();res.json(mail.status())}catch(e){res.status(400).json({error:e.message})}});
+app.post('/api/mail/sync',async(_req,res)=>{try{res.json({count:await mail.sync()})}catch(e){res.status(400).json({error:e.message})}});
+app.post('/api/mail/disconnect',async(_req,res)=>{await mail.disconnect();res.json({ok:true})});
+app.delete('/api/mail/opportunities',(_req,res)=>{store.clearPrivate();res.json({ok:true})});
+app.get('/api/mail/opportunities',(_req,res)=>res.json(store.list('private')));
+app.get('/api/opportunities',(_req,res)=>res.json(store.list()));
+app.get('/api/sync',(_req,res)=>res.json(store.runs()));
+let refreshing=false;
+app.post('/api/sync',async(_req,res)=>{if(refreshing)return res.status(409).json({error:'Refresh already running'});refreshing=true;try{const results=await Promise.allSettled([refreshCalendar(store),refreshShenzhen(store),refreshInternships(store),refreshHkuCompetitions(store),refreshEntrepreneurshipEvents(store),refreshCuhk(store),refreshCityu(store)]);const count=results.reduce((n,r)=>n+(r.status==='fulfilled'?r.value:0),0);if(results.some(r=>r.status==='rejected'))return res.status(502).json({error:'Some sources could not refresh',count});res.json({count})}catch{res.status(502).json({error:'Unable to refresh calendar'})}finally{refreshing=false}});
+app.use(express.static('dist'));
+app.get('/{*path}',(_req,res)=>res.sendFile('index.html',{root:'dist'}));
+app.listen(port,'127.0.0.1',()=>console.log(`Local app: http://127.0.0.1:${port}`));
+function scheduledRefresh(){if(refreshing)return;refreshing=true;Promise.allSettled([refreshCalendar(store),refreshShenzhen(store),refreshInternships(store),refreshHkuCompetitions(store),refreshEntrepreneurshipEvents(store),refreshCuhk(store),refreshCityu(store),...(mail.status().status==='connected'?[mail.sync()]:[])]).finally(()=>{refreshing=false})}
+const lastSuccess=store.runs().find(run=>run.status==='success'&&run.source==='HKUST event calendar');
+if(!lastSuccess||Date.now()-Date.parse(lastSuccess.finished_at)>24*60*60*1000)scheduledRefresh();
+const timer=setInterval(scheduledRefresh,24*60*60*1000);timer.unref();
