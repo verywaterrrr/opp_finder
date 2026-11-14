@@ -13,7 +13,7 @@
     "startDate": "2026-12-31",
     "endsAt": "2026-12-31T23:59:59+08:00",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=38084",
-    "verified": "2026-11-13T07:06:51.354Z"
+    "verified": "2026-11-14T00:56:03.357Z"
   },
   {
     "id": "cityu-ca1e9306673a171c",
@@ -32,7 +32,490 @@
     "deadlineLabel": "11 December 2026",
     "registrationUrl": "https://forms.gle/tcbGETfRXQftLUXe7",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40450",
-    "verified": "2026-11-13T07:06:50.957Z"
+    "verified": "2026-11-14T00:56:02.912Z"
+  },
+  {
+    "id": "cuhk-6c537d8bbc97814d",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "第九屆「京港青創杯」創業大賽 (報名截止日期：2026年7月31日)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-07-31T15:59:59.000Z",
+    "deadlineLabel": "2026-07-31",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
+    "verified": "2026-11-14T00:56:02.880Z"
+  },
+  {
+    "id": "hackertrip-a43444acd377319d",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "Delin Residency十周驻场共创计划（深圳）",
+    "org": "HackerTrip",
+    "date": "Nov 1, 2026 – Jan 9, 2027",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-fc16c17d1a7a45f5",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "OJO Buildathon 2026 · 宠物黑客松",
+    "org": "HackerTrip",
+    "date": "Oct 18–18, 2026",
+    "startDate": "2026-10-18",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-a487022cb7302d03",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "创业能力AI+OPC训练营",
+    "org": "HackerTrip",
+    "date": "Oct 17 – Nov 8, 2026",
+    "startDate": "2026-10-17",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-7f72483ff814a62d",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "深圳 Solar 黑客之家 Solar Hacker House Shenzhen",
+    "org": "HackerTrip",
+    "date": "Oct 9–11, 2026",
+    "startDate": "2026-10-09",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-dd3a5f60626a5cd3",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "GOSIM 巡天智能体黑客松（Agentic Observer）",
+    "org": "HackerTrip",
+    "date": "Oct 1–17, 2026",
+    "startDate": "2026-10-01",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-2ad8b2b14c7d79ac",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "进化酒馆·攻壳机动队主题 Agent 黑客松",
+    "org": "HackerTrip",
+    "date": "Sep 21–24, 2026",
+    "startDate": "2026-09-21",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-cb650275fe3f8e1b",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "BAYTECH国际湾区创科节「极客黑客松」",
+    "org": "HackerTrip",
+    "date": "Sep 19–20, 2026",
+    "startDate": "2026-09-19",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-cbbeb66e19098f42",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "EonveraX Builders’  Day",
+    "org": "HackerTrip",
+    "date": "Sep 12–13, 2026",
+    "startDate": "2026-09-12",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-c96592c4800a0163",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "REBUILD-Z × GEIA AI 黑客松 S2",
+    "org": "HackerTrip",
+    "date": "Sep 8–11, 2026",
+    "startDate": "2026-09-08",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-723a3466e44da7c7",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "Anker 首届黑客松挑战赛",
+    "org": "HackerTrip",
+    "date": "Sep 7 – Oct 17, 2026",
+    "startDate": "2026-09-07",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-7bdd726c61993c3a",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "GOSIM Shenzhen 2026 智能体软件工厂黑客松",
+    "org": "HackerTrip",
+    "date": "Sep 7 – Oct 17, 2026",
+    "startDate": "2026-09-07",
+    "tags": [],
+    "status": "Closed",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
+    "verified": "2026-11-14T00:56:00.601Z"
+  },
+  {
+    "id": "hackertrip-3d8c863dea5afc33",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "2026硬件黑客松（极客营）",
+    "org": "HackerTrip",
+    "date": "Dec 2–6, 2026",
+    "startDate": "2026-12-02",
+    "tags": [],
+    "status": "Open",
+    "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
+    "verified": "2026-11-14T00:56:00.601Z",
+    "registrationUrl": "https://wecruit.hotjob.cn/SU623d608e0dcad4729000da88/pb/posDetail.html?postId=6a9a703e42efacd5903fa060&postType=intern&utm_source=hackertrip&utm_medium=referral&utm_campaign=hackathon_ht-2026-2beb1cb6_detail"
+  },
+  {
+    "id": "cuhk-8514c23534b03367",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Call for applications: The 1st Hong Kong University Fintech Innovation Competition (Deadline: 19 October 2026)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-10-19T15:59:59.000Z",
+    "deadlineLabel": "19 October 2026",
+    "registrationUrl": "https://www.gonghangbei.com/",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
+    "verified": "2026-11-14T00:56:02.633Z"
+  },
+  {
+    "id": "cuhk-ea5e6faf7689899b",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Other",
+    "title": "「今天國際杯」第四屆香港中文大學（深圳）“神仙湖” 國際創新創業大賽 (報名截止日期：2026年12月4日)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-12-04T15:59:59.000Z",
+    "deadlineLabel": "2026-12-04",
+    "eligibility": "】 參賽主體須為在本屆大賽報名截止前尚未注冊企業的團隊，或已注冊但融資階段未超過兩輪（即種子輪、天使輪）的初創企業。 【",
+    "registrationUrl": "https://fairylakecompetition.cuhk.edu.cn/home",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/fairy-lake-2026",
+    "verified": "2026-11-14T00:56:02.393Z"
+  },
+  {
+    "id": "cuhk-66b063a475cce337",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Call for applications: The Changjiang Cup 2026 Global AI Protein Design Challenge (Extended Deadline: 30 November 2026)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-30T15:59:59.000Z",
+    "deadlineLabel": "30 November 2026",
+    "registrationUrl": "https://awnjufzky2h.feishu.cn/share/base/form/shrcn9Y3Mawe4TYgMH4FiIq3aYe",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-changjiang-cup-2026-global-ai-protein-design-challenge",
+    "verified": "2026-11-14T00:56:02.090Z"
+  },
+  {
+    "id": "hku-tec-4cbf6c840fc616a9",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Jumpstarter 2027",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Build Track: University students & ideation-stage entrepreneurs.Scale Track: Startups raised <US$20M with global expansion plans.",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://www.jumpstarter.hk/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-6aa365cbd83a9bb8",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "HULT Prize 2027",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "University students (undergrad/grad) or recent grads.Teams of 1 to 4 members, age 18 or older.",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2027-02-28T15:59:59.000Z",
+    "deadlineLabel": "28 February 2027",
+    "sourceUrl": "https://www.hultprize.org/en/register/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-0367df7c8a16b263",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Hackathons",
+    "title": "Hong Kong Techathon+",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Students and alumni from HKU and the other co-organising universities with technology-related business ideas are welcome",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-01-06T15:59:59.000Z",
+    "deadlineLabel": "6 January 2026",
+    "sourceUrl": "https://tec.hku.hk/event/cupp2025/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-801f0e7c0b920045",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Samsung Solve for Tomorrow 2026",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Hong Kong primary, secondary, and tertiary students.Teams of 2 to 5 students from the same institution",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-13T15:59:59.000Z",
+    "deadlineLabel": "13 November 2026",
+    "sourceUrl": "https://www.samsung.com/hk/offer/solvefortomorrow/?srsltid=AYCX9vJoRsnPzTWhXx-_6AlPCHa3I-PvXw4FjO2KbHu1YHD0-vq3dYr3",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-26ec56780b36b195",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Global Student Entrepreneur Awards",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "University/tertiary students who own/operate a business.Business must have operated for at least 6 consecutive months.Minimum US$500 in revenue or US$1,000 in investment.",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-04T15:59:59.000Z",
+    "deadlineLabel": "4 November 2026",
+    "sourceUrl": "https://eonetwork.org/gsea/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-c1e053e4a5d30503",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Hong Kong Social Enterprise Challenge (HKSEC)",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Tertiary students and recent graduates (within 3 years).Teams of 2 to 4 members from mixed institutions welcome.",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-10-26T15:59:59.000Z",
+    "deadlineLabel": "26 October 2026",
+    "sourceUrl": "https://hksec.hk/zh/homepage-zh/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-654c2d3d389be375",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "ICBC FinTech Innovation Competition for Hong Kong University Students",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Full-time university students in Hong Kong (Undergrad/Postgrad/PhD).Participated on a team basis (1 to 3 members per team)",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-10-18T15:59:59.000Z",
+    "deadlineLabel": "18 October 2026",
+    "sourceUrl": "https://www.gonghangbei.com/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-d9fd8fb3f8177a7b",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Beijing-Hong Kong Youth Innovation and Entrepreneur Cup",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "The competition is open to college/university students, social entrepreneurship teams, and early-stage startup companies based in Beijing or Hong Kong",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-08-04T15:59:59.000Z",
+    "deadlineLabel": "4 August 2026",
+    "sourceUrl": "https://mp.weixin.qq.com/s/TF9w28jNRzIhSbZ-vusF3w?from=groupmessage&isappinstalled=0&scene=1&clicktime=1782445534&enterid=1782445534",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-d07c45300cc44684",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "ICT Award – Student Innovation Award",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Open to all post-secondary undergraduate, postgraduate, and doctoral students enrolled in tertiary institutions",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-07-20T15:59:59.000Z",
+    "deadlineLabel": "20 July 2026",
+    "sourceUrl": "https://icta.itda.hk/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-2e50295360e224cc",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "The 12th Hong Kong University Student Innovation and Entrepreneurship Competition",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Hong Kong’s full-time higher diploma, associate’s, bachelor’s, master’s and doctoral degree students. (On-the-job postgraduates exclusive )Full-time higher diploma, associate’s, bachelor’s, MPhil-PhD articulated programmes, master’s or doctoral degree students. (On-the-job postgraduates exclusive)For Entrepreneurship enrollment with a registered company, welcome projects from graduates ≤ 5 years",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-03-30T15:59:59.000Z",
+    "deadlineLabel": "30 March 2026",
+    "sourceUrl": "https://www.hkchallengeplus.com/en/application-info/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-9e5ce7e933057db7",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Cyberport University Partnership Programme (CUPP)",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Project: Must be digital tech-based. Applicants: Nominated by CUPP Co-organising Universities, aged 18-30.Education: Current students or recent graduates from Co-organising Universities.Language: Good command of English required.Team: Composed of students/graduates, maximum 5 members",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-03-02T15:59:59.000Z",
+    "deadlineLabel": "2 March 2026",
+    "sourceUrl": "https://tec.hku.hk/event/cupp2026/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-9f442197e8ba1974",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Samsung Solve for Tomorrow 2025",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "This competition is a team-based event divided into three categories: “Primary,” “Secondary,” and “Tertiary,” each with corresponding awards.For further details or additional requests, please refer to the website.",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2025-11-21T15:59:59.000Z",
+    "deadlineLabel": "21 November 2025",
+    "sourceUrl": "https://hkclubs.samsung.com/hk_en/offer/solvefortomorrow2025/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "wfeo-2027",
+    "cities": [
+      "Hong Kong",
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
+    "org": "World Federation of Engineering Organizations",
+    "date": "Submissions due 12 Dec 2026",
+    "format": "Online",
+    "tags": [
+      "Engineering students"
+    ],
+    "eligibility": "Engineering students, young engineers and multidisciplinary teams",
+    "status": "Open",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/2027-wfeo-hackathon-sustainable-transport-engineering",
+    "registrationUrl": "https://worldengineeringday.net/hackathon/",
+    "verified": "12 Nov 2026"
+  },
+  {
+    "id": "zhihu-s3",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Hackathons",
+    "title": "知乎黑客松 S3 · 湾区共创季",
+    "org": "知乎",
+    "date": "2026",
+    "format": null,
+    "tags": [],
+    "eligibility": "面向全球青年开发者",
+    "status": "Unknown",
+    "sourceUrl": "https://hackathon-s3.event.zhihu.com/",
+    "registrationUrl": "https://www.zhihu.com/hackathon/register?activity_code=zhihu_hackathon_2026_p3",
+    "verified": "12 Nov 2026"
   },
   {
     "id": "cityu-6375b81106c6899e",
@@ -51,217 +534,6 @@
     "verified": "2026-11-13T07:06:50.632Z"
   },
   {
-    "id": "hackertrip-a43444acd377319d",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "Delin Residency十周驻场共创计划（深圳）",
-    "org": "HackerTrip",
-    "date": "Nov 1, 2026 – Jan 9, 2027",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-fc16c17d1a7a45f5",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "OJO Buildathon 2026 · 宠物黑客松",
-    "org": "HackerTrip",
-    "date": "Oct 18–18, 2026",
-    "startDate": "2026-10-18",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-a487022cb7302d03",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "创业能力AI+OPC训练营",
-    "org": "HackerTrip",
-    "date": "Oct 17 – Nov 8, 2026",
-    "startDate": "2026-10-17",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-7f72483ff814a62d",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "深圳 Solar 黑客之家 Solar Hacker House Shenzhen",
-    "org": "HackerTrip",
-    "date": "Oct 9–11, 2026",
-    "startDate": "2026-10-09",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-dd3a5f60626a5cd3",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "GOSIM 巡天智能体黑客松（Agentic Observer）",
-    "org": "HackerTrip",
-    "date": "Oct 1–17, 2026",
-    "startDate": "2026-10-01",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-2ad8b2b14c7d79ac",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "进化酒馆·攻壳机动队主题 Agent 黑客松",
-    "org": "HackerTrip",
-    "date": "Sep 21–24, 2026",
-    "startDate": "2026-09-21",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-cb650275fe3f8e1b",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "BAYTECH国际湾区创科节「极客黑客松」",
-    "org": "HackerTrip",
-    "date": "Sep 19–20, 2026",
-    "startDate": "2026-09-19",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-cbbeb66e19098f42",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "EonveraX Builders’  Day",
-    "org": "HackerTrip",
-    "date": "Sep 12–13, 2026",
-    "startDate": "2026-09-12",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-c96592c4800a0163",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "REBUILD-Z × GEIA AI 黑客松 S2",
-    "org": "HackerTrip",
-    "date": "Sep 8–11, 2026",
-    "startDate": "2026-09-08",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-723a3466e44da7c7",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "Anker 首届黑客松挑战赛",
-    "org": "HackerTrip",
-    "date": "Sep 7 – Oct 17, 2026",
-    "startDate": "2026-09-07",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-7bdd726c61993c3a",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "GOSIM Shenzhen 2026 智能体软件工厂黑客松",
-    "org": "HackerTrip",
-    "date": "Sep 7 – Oct 17, 2026",
-    "startDate": "2026-09-07",
-    "tags": [],
-    "status": "Closed",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
-    "verified": "2026-11-13T07:06:47.685Z"
-  },
-  {
-    "id": "hackertrip-3d8c863dea5afc33",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "2026硬件黑客松（极客营）",
-    "org": "HackerTrip",
-    "date": "Dec 2–6, 2026",
-    "startDate": "2026-12-02",
-    "tags": [],
-    "status": "Open",
-    "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
-    "verified": "2026-11-13T07:06:47.685Z",
-    "registrationUrl": "https://wecruit.hotjob.cn/SU623d608e0dcad4729000da88/pb/posDetail.html?postId=6a9a703e42efacd5903fa060&postType=intern&utm_source=hackertrip&utm_medium=referral&utm_campaign=hackathon_ht-2026-2beb1cb6_detail"
-  },
-  {
-    "id": "cuhk-6c537d8bbc97814d",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "第九屆「京港青創杯」創業大賽 (報名截止日期：2026年7月31日)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-07-31T15:59:59.000Z",
-    "deadlineLabel": "2026-07-31",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
-    "verified": "2026-11-13T07:06:49.987Z"
-  },
-  {
-    "id": "cuhk-8514c23534b03367",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Call for applications: The 1st Hong Kong University Fintech Innovation Competition (Deadline: 19 October 2026)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-10-19T15:59:59.000Z",
-    "deadlineLabel": "19 October 2026",
-    "registrationUrl": "https://www.gonghangbei.com/",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
-    "verified": "2026-11-13T07:06:49.746Z"
-  },
-  {
     "id": "hkust-248a9beb1556f949",
     "cities": [
       "Hong Kong"
@@ -275,39 +547,6 @@
     "verified": "2026-11-13T07:06:48.608Z"
   },
   {
-    "id": "cuhk-ea5e6faf7689899b",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Other",
-    "title": "「今天國際杯」第四屆香港中文大學（深圳）“神仙湖” 國際創新創業大賽 (報名截止日期：2026年12月4日)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-12-04T15:59:59.000Z",
-    "deadlineLabel": "2026-12-04",
-    "eligibility": "】 參賽主體須為在本屆大賽報名截止前尚未注冊企業的團隊，或已注冊但融資階段未超過兩輪（即種子輪、天使輪）的初創企業。 【",
-    "registrationUrl": "https://fairylakecompetition.cuhk.edu.cn/home",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/fairy-lake-2026",
-    "verified": "2026-11-13T07:06:49.510Z"
-  },
-  {
-    "id": "cuhk-66b063a475cce337",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Call for applications: The Changjiang Cup 2026 Global AI Protein Design Challenge (Extended Deadline: 30 November 2026)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-30T15:59:59.000Z",
-    "deadlineLabel": "30 November 2026",
-    "registrationUrl": "https://awnjufzky2h.feishu.cn/share/base/form/shrcn9Y3Mawe4TYgMH4FiIq3aYe",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-changjiang-cup-2026-global-ai-protein-design-challenge",
-    "verified": "2026-11-13T07:06:49.265Z"
-  },
-  {
     "id": "hkust-71daf380434ebde4",
     "cities": [
       "Hong Kong"
@@ -319,208 +558,6 @@
     "status": "Unknown",
     "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
     "verified": "2026-11-13T07:06:48.608Z"
-  },
-  {
-    "id": "hku-tec-4cbf6c840fc616a9",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Jumpstarter 2027",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Build Track: University students & ideation-stage entrepreneurs.Scale Track: Startups raised <US$20M with global expansion plans.",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://www.jumpstarter.hk/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-6aa365cbd83a9bb8",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "HULT Prize 2027",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "University students (undergrad/grad) or recent grads.Teams of 1 to 4 members, age 18 or older.",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2027-02-28T15:59:59.000Z",
-    "deadlineLabel": "28 February 2027",
-    "sourceUrl": "https://www.hultprize.org/en/register/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-0367df7c8a16b263",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Hackathons",
-    "title": "Hong Kong Techathon+",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Students and alumni from HKU and the other co-organising universities with technology-related business ideas are welcome",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-01-06T15:59:59.000Z",
-    "deadlineLabel": "6 January 2026",
-    "sourceUrl": "https://tec.hku.hk/event/cupp2025/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-801f0e7c0b920045",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Samsung Solve for Tomorrow 2026",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Hong Kong primary, secondary, and tertiary students.Teams of 2 to 5 students from the same institution",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-13T15:59:59.000Z",
-    "deadlineLabel": "13 November 2026",
-    "sourceUrl": "https://www.samsung.com/hk/offer/solvefortomorrow/?srsltid=AYCX9vJoRsnPzTWhXx-_6AlPCHa3I-PvXw4FjO2KbHu1YHD0-vq3dYr3",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-26ec56780b36b195",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Global Student Entrepreneur Awards",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "University/tertiary students who own/operate a business.Business must have operated for at least 6 consecutive months.Minimum US$500 in revenue or US$1,000 in investment.",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-04T15:59:59.000Z",
-    "deadlineLabel": "4 November 2026",
-    "sourceUrl": "https://eonetwork.org/gsea/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-c1e053e4a5d30503",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Hong Kong Social Enterprise Challenge (HKSEC)",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Tertiary students and recent graduates (within 3 years).Teams of 2 to 4 members from mixed institutions welcome.",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-10-26T15:59:59.000Z",
-    "deadlineLabel": "26 October 2026",
-    "sourceUrl": "https://hksec.hk/zh/homepage-zh/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-654c2d3d389be375",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "ICBC FinTech Innovation Competition for Hong Kong University Students",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Full-time university students in Hong Kong (Undergrad/Postgrad/PhD).Participated on a team basis (1 to 3 members per team)",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-10-18T15:59:59.000Z",
-    "deadlineLabel": "18 October 2026",
-    "sourceUrl": "https://www.gonghangbei.com/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-d9fd8fb3f8177a7b",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Beijing-Hong Kong Youth Innovation and Entrepreneur Cup",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "The competition is open to college/university students, social entrepreneurship teams, and early-stage startup companies based in Beijing or Hong Kong",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-08-04T15:59:59.000Z",
-    "deadlineLabel": "4 August 2026",
-    "sourceUrl": "https://mp.weixin.qq.com/s/TF9w28jNRzIhSbZ-vusF3w?from=groupmessage&isappinstalled=0&scene=1&clicktime=1782445534&enterid=1782445534",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-d07c45300cc44684",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "ICT Award – Student Innovation Award",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Open to all post-secondary undergraduate, postgraduate, and doctoral students enrolled in tertiary institutions",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-07-20T15:59:59.000Z",
-    "deadlineLabel": "20 July 2026",
-    "sourceUrl": "https://icta.itda.hk/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-2e50295360e224cc",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "The 12th Hong Kong University Student Innovation and Entrepreneurship Competition",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Hong Kong’s full-time higher diploma, associate’s, bachelor’s, master’s and doctoral degree students. (On-the-job postgraduates exclusive )Full-time higher diploma, associate’s, bachelor’s, MPhil-PhD articulated programmes, master’s or doctoral degree students. (On-the-job postgraduates exclusive)For Entrepreneurship enrollment with a registered company, welcome projects from graduates ≤ 5 years",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-03-30T15:59:59.000Z",
-    "deadlineLabel": "30 March 2026",
-    "sourceUrl": "https://www.hkchallengeplus.com/en/application-info/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-9e5ce7e933057db7",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Cyberport University Partnership Programme (CUPP)",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Project: Must be digital tech-based. Applicants: Nominated by CUPP Co-organising Universities, aged 18-30.Education: Current students or recent graduates from Co-organising Universities.Language: Good command of English required.Team: Composed of students/graduates, maximum 5 members",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-03-02T15:59:59.000Z",
-    "deadlineLabel": "2 March 2026",
-    "sourceUrl": "https://tec.hku.hk/event/cupp2026/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
-  },
-  {
-    "id": "hku-tec-9f442197e8ba1974",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Samsung Solve for Tomorrow 2025",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "This competition is a team-based event divided into three categories: “Primary,” “Secondary,” and “Tertiary,” each with corresponding awards.For further details or additional requests, please refer to the website.",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2025-11-21T15:59:59.000Z",
-    "deadlineLabel": "21 November 2025",
-    "sourceUrl": "https://hkclubs.samsung.com/hk_en/offer/solvefortomorrow2025/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-13T07:06:48.928Z"
   },
   {
     "id": "ec-428d80d24649670e",
@@ -794,43 +831,6 @@
     "status": "Open",
     "sourceUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
     "registrationUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
-    "verified": "12 Nov 2026"
-  },
-  {
-    "id": "wfeo-2027",
-    "cities": [
-      "Hong Kong",
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "2027 WFEO Hackathon on Sustainable Transport Engineering",
-    "org": "World Federation of Engineering Organizations",
-    "date": "Submissions due 12 Dec 2026",
-    "format": "Online",
-    "tags": [
-      "Engineering students"
-    ],
-    "eligibility": "Engineering students, young engineers and multidisciplinary teams",
-    "status": "Open",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/2027-wfeo-hackathon-sustainable-transport-engineering",
-    "registrationUrl": "https://worldengineeringday.net/hackathon/",
-    "verified": "12 Nov 2026"
-  },
-  {
-    "id": "zhihu-s3",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Hackathons",
-    "title": "知乎黑客松 S3 · 湾区共创季",
-    "org": "知乎",
-    "date": "2026",
-    "format": null,
-    "tags": [],
-    "eligibility": "面向全球青年开发者",
-    "status": "Unknown",
-    "sourceUrl": "https://hackathon-s3.event.zhihu.com/",
-    "registrationUrl": "https://www.zhihu.com/hackathon/register?activity_code=zhihu_hackathon_2026_p3",
     "verified": "12 Nov 2026"
   }
 ]
