@@ -10,31 +10,7 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://calendar.hkust.edu.hk/events/ydc-dare-change-business-pitch-competition",
-    "verified": "2026-11-18T02:29:11.605Z"
-  },
-  {
-    "id": "hkust-a72b3b3cd115827e",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Wellness Wednesday: Preserved Flower Aroma Workshop",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/wellness-wednesday-preserved-flower-aroma-workshop",
-    "verified": "2026-11-18T02:29:11.605Z",
-    "date": "25 November 2026",
-    "startDate": "2026-11-25",
-    "time": "12:00pm – 2:00pm",
-    "schedule": [
-      {
-        "day": 3,
-        "startSlot": 24,
-        "endSlot": 28
-      }
-    ],
-    "endsAt": "2026-11-25T14:00:00+08:00"
+    "verified": "2026-11-19T01:55:22.305Z"
   },
   {
     "id": "cityu-85e9c1f641d4ca41",
@@ -50,51 +26,31 @@
     "startDate": "2026-12-31",
     "endsAt": "2026-12-31T23:59:59+08:00",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=38084",
-    "verified": "2026-11-18T02:29:13.126Z"
+    "verified": "2026-11-19T01:55:23.837Z"
   },
   {
-    "id": "cuhk-6c537d8bbc97814d",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "第九屆「京港青創杯」創業大賽 (報名截止日期：2026年7月31日)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-07-31T15:59:59.000Z",
-    "deadlineLabel": "2026-07-31",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
-    "verified": "2026-11-18T02:29:12.911Z"
-  },
-  {
-    "id": "hkust-248a9beb1556f949",
+    "id": "hkust-a72b3b3cd115827e",
     "cities": [
       "Hong Kong"
     ],
     "category": "Workshops",
-    "title": "HKUST IAS-Asia Pacific Workshop - Frontiers in Quantum Matter",
+    "title": "Wellness Wednesday: Preserved Flower Aroma Workshop",
     "org": "HKUST University Event Calendar",
     "tags": [],
     "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/hkust-ias-asia-pacific-workshop-frontiers-quantum-matter-0",
-    "verified": "2026-11-18T02:29:11.605Z"
-  },
-  {
-    "id": "cuhk-8514c23534b03367",
-    "cities": [
-      "Hong Kong"
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/wellness-wednesday-preserved-flower-aroma-workshop",
+    "verified": "2026-11-19T01:55:22.305Z",
+    "date": "25 November 2026",
+    "startDate": "2026-11-25",
+    "time": "12:00pm – 2:00pm",
+    "schedule": [
+      {
+        "day": 3,
+        "startSlot": 24,
+        "endSlot": 28
+      }
     ],
-    "category": "Other",
-    "title": "Call for applications: The 1st Hong Kong University Fintech Innovation Competition (Deadline: 19 October 2026)",
-    "org": "CUHK Knowledge Transfer Office",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-10-19T15:59:59.000Z",
-    "deadlineLabel": "19 October 2026",
-    "registrationUrl": "https://www.gonghangbei.com/",
-    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
-    "verified": "2026-11-18T02:29:12.622Z"
+    "endsAt": "2026-11-25T14:00:00+08:00"
   },
   {
     "id": "cityu-ca1e9306673a171c",
@@ -113,7 +69,20 @@
     "deadlineLabel": "11 December 2026",
     "registrationUrl": "https://forms.gle/tcbGETfRXQftLUXe7",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40450",
-    "verified": "2026-11-18T02:29:12.591Z"
+    "verified": "2026-11-19T01:55:23.327Z"
+  },
+  {
+    "id": "hkust-248a9beb1556f949",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "HKUST IAS-Asia Pacific Workshop - Frontiers in Quantum Matter",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/hkust-ias-asia-pacific-workshop-frontiers-quantum-matter-0",
+    "verified": "2026-11-19T01:55:22.305Z"
   },
   {
     "id": "hkust-71daf380434ebde4",
@@ -126,7 +95,38 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
-    "verified": "2026-11-18T02:29:11.605Z"
+    "verified": "2026-11-19T01:55:22.305Z"
+  },
+  {
+    "id": "cuhk-6c537d8bbc97814d",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "第九屆「京港青創杯」創業大賽 (報名截止日期：2026年7月31日)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-07-31T15:59:59.000Z",
+    "deadlineLabel": "2026-07-31",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
+    "verified": "2026-11-19T01:55:22.542Z"
+  },
+  {
+    "id": "cuhk-8514c23534b03367",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Call for applications: The 1st Hong Kong University Fintech Innovation Competition (Deadline: 19 October 2026)",
+    "org": "CUHK Knowledge Transfer Office",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-10-19T15:59:59.000Z",
+    "deadlineLabel": "19 October 2026",
+    "registrationUrl": "https://www.gonghangbei.com/",
+    "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
+    "verified": "2026-11-19T01:55:22.273Z"
   },
   {
     "id": "cuhk-ea5e6faf7689899b",
@@ -143,7 +143,7 @@
     "eligibility": "】 參賽主體須為在本屆大賽報名截止前尚未注冊企業的團隊，或已注冊但融資階段未超過兩輪（即種子輪、天使輪）的初創企業。 【",
     "registrationUrl": "https://fairylakecompetition.cuhk.edu.cn/home",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/fairy-lake-2026",
-    "verified": "2026-11-18T02:29:12.321Z"
+    "verified": "2026-11-19T01:55:22.001Z"
   },
   {
     "id": "cuhk-66b063a475cce337",
@@ -159,7 +159,7 @@
     "deadlineLabel": "30 November 2026",
     "registrationUrl": "https://awnjufzky2h.feishu.cn/share/base/form/shrcn9Y3Mawe4TYgMH4FiIq3aYe",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-changjiang-cup-2026-global-ai-protein-design-challenge",
-    "verified": "2026-11-18T02:29:12.036Z"
+    "verified": "2026-11-19T01:55:21.746Z"
   },
   {
     "id": "cse-369338abb8efbbd2",
@@ -174,7 +174,7 @@
     "deadline": "2026-11-30T23:59:59+08:00",
     "deadlineLabel": "2026-11-30",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3628",
-    "verified": "2026-11-18T02:29:11.216Z"
+    "verified": "2026-11-19T01:55:21.726Z"
   },
   {
     "id": "cse-91f760e6dbfe62ad",
@@ -189,7 +189,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3625",
-    "verified": "2026-11-18T02:29:11.216Z"
+    "verified": "2026-11-19T01:55:21.726Z"
   },
   {
     "id": "cse-f14f024111b20b0d",
@@ -204,7 +204,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3624",
-    "verified": "2026-11-18T02:29:11.216Z"
+    "verified": "2026-11-19T01:55:21.726Z"
   },
   {
     "id": "cse-3a361a6f14eaa6ab",
@@ -219,7 +219,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3623",
-    "verified": "2026-11-18T02:29:11.216Z"
+    "verified": "2026-11-19T01:55:21.726Z"
   },
   {
     "id": "ec-428d80d24649670e",
@@ -234,7 +234,7 @@
     "deadline": "2026-11-20T09:30:00Z",
     "deadlineLabel": "20 Nov 2026 - 17:30",
     "sourceUrl": "https://ec.hkust.edu.hk/events/entrepreneur-day-2026",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-5ac482582d5e8b66",
@@ -249,7 +249,7 @@
     "deadline": "2026-11-22T15:59:00Z",
     "deadlineLabel": "22 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/application-ccmf-and-cip-feb-2027-intake-cyberport-entrepreneurship-programme-information",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-76b79ee45844c4f6",
@@ -264,7 +264,7 @@
     "deadline": "2026-11-25T04:00:00Z",
     "deadlineLabel": "25 Nov 2026 - 12:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/orbis-future-vision-leaders-2627",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-95fd638706fa53b1",
@@ -279,7 +279,7 @@
     "deadline": "2026-10-25T15:59:59Z",
     "deadlineLabel": "25 Oct 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-gba-learning-trip-xianggangkejidaxue-1",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-13afea78d408ba4b",
@@ -294,7 +294,7 @@
     "deadline": "2026-11-19T15:59:00Z",
     "deadlineLabel": "19 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/talk-beyond-patent-filing-ip-strategy-and-gba-essentials-startup-founders",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-54f65c11dc2aebec",
@@ -309,7 +309,7 @@
     "deadline": "2026-11-18T15:59:59Z",
     "deadlineLabel": "18 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/friday-dreamer-series-turn-passion-business-antipixel",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-981f9ffe3f5303d9",
@@ -324,7 +324,7 @@
     "deadline": "2026-11-24T09:00:00Z",
     "deadlineLabel": "24 Nov 2026 - 17:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/cyberport-greater-bay-area-young-entrepreneurship-programme-2026-information-session",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-150016c318b0adfb",
@@ -339,7 +339,7 @@
     "deadline": "2026-11-25T04:00:00Z",
     "deadlineLabel": "25 Nov 2026 - 12:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/zhenfund-hkust-startup-talk-building-whats-next-ai-zhengexiaoyuanxing",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "ec-bb499563359b65e9",
@@ -354,7 +354,7 @@
     "deadline": "2026-11-27T15:59:00Z",
     "deadlineLabel": "27 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/cyberport-greater-bay-area-young-entrepreneurship-programme-2026",
-    "verified": "2026-11-18T02:29:11.194Z"
+    "verified": "2026-11-19T01:55:20.214Z"
   },
   {
     "id": "hackertrip-a43444acd377319d",
@@ -368,7 +368,7 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-fc16c17d1a7a45f5",
@@ -383,7 +383,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-a487022cb7302d03",
@@ -398,7 +398,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-7f72483ff814a62d",
@@ -413,7 +413,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-dd3a5f60626a5cd3",
@@ -428,7 +428,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-2ad8b2b14c7d79ac",
@@ -443,7 +443,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-cb650275fe3f8e1b",
@@ -458,7 +458,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-cbbeb66e19098f42",
@@ -473,7 +473,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-c96592c4800a0163",
@@ -488,7 +488,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-723a3466e44da7c7",
@@ -503,7 +503,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-7bdd726c61993c3a",
@@ -518,7 +518,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "hackertrip-3d8c863dea5afc33",
@@ -533,7 +533,7 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
-    "verified": "2026-11-18T02:29:10.107Z"
+    "verified": "2026-11-19T01:55:18.889Z"
   },
   {
     "id": "ec-d5f4352f0d0fc03f",
