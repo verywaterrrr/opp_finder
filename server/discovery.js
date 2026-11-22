@@ -71,13 +71,17 @@ export async function refreshInternships(store,fetcher=fetch){
 }
 export function parseHkuCompetitions(html,verified=new Date().toISOString()){
  const $=cheerio.load(html),items=[];
- $('table').first().find('tr').each((_,row)=>{const cells=$(row).find('td');if(cells.length<3)return;const title=$(cells[0]).text().replace(/\s+/g,' ').trim(),eligibility=$(cells[1]).text().replace(/\s+/g,' ').trim(),deadlineText=$(cells[2]).text().replace(/\s+/g,' ').trim(),href=$(cells[0]).find('a[href]').first().attr('href');
+ function addRow(title,eligibility,deadlineText,href,status){
  if(!title||!href||!/university|undergrad|tertiary|bachelor|co-organising/i.test(eligibility)||/postdoctoral|hku students only|hku student only/i.test(eligibility))return;
  let url;try{url=new URL(href,'https://tec.hku.hk');if(url.protocol!=='https:')return}catch{return}
  const match=deadlineText.match(/\b(\d{1,2})\s+(January|February|March|April|May|June|July|August|September|October|November|December)\s+(20\d{2})\b/i);let deadline;if(match){const d=new Date(`${match[2]} ${match[1]}, ${match[3]} 23:59:59 GMT+0800`);if(!Number.isNaN(d.getTime()))deadline=d.toISOString()}
  const category=/hackathon|techathon/i.test(title)?'Hackathons':/case competition/i.test(title)?'Case competitions':'Other';
- items.push({id:'hku-tec-'+createHash('sha256').update(title.toLowerCase()).digest('hex').slice(0,16),cities:['Hong Kong'],category,title,org:'HKU Techno-Entrepreneurship Core',eligibility,tags:[],status:'Unknown',...(deadline?{deadline,deadlineLabel:match[0]}:{}),sourceUrl:url.href,evidenceUrl:'https://tec.hku.hk/competitions/',verified});
- });return items;
+ items.push({id:'hku-tec-'+createHash('sha256').update(title.toLowerCase()).digest('hex').slice(0,16),cities:['Hong Kong'],category,title,org:'HKU Techno-Entrepreneurship Core',eligibility,tags:[],status:status==='open'?'Open':status==='closed'?'Closed':'Unknown',...(deadline?{deadline,deadlineLabel:match[0]}:{}),sourceUrl:url.href,evidenceUrl:'https://tec.hku.hk/competitions/',verified});
+ }
+ const data=$('script#teccomp-data[type="application/json"]');
+ if(data.length){const rows=JSON.parse(data.text());if(!Array.isArray(rows))throw Error('Unexpected HKU competition data');for(const row of rows){if(!row||typeof row.name!=='string'||typeof row.eligibility!=='string'||typeof row.url!=='string')continue;addRow(row.name.replace(/\s+/g,' ').trim(),row.eligibility.replace(/\s+/g,' ').trim(),typeof row.deadline==='string'?row.deadline.trim():'',row.url,row.status)}}
+ else $('table').first().find('tr').each((_,row)=>{const cells=$(row).find('td');if(cells.length<3)return;addRow($(cells[0]).text().replace(/\s+/g,' ').trim(),$(cells[1]).text().replace(/\s+/g,' ').trim(),$(cells[2]).text().replace(/\s+/g,' ').trim(),$(cells[0]).find('a[href]').first().attr('href'))});
+ return items;
 }
 export function parseEntrepreneurshipEvents(html,verified=new Date().toISOString()){
  const $=cheerio.load(html),items=[],seen=new Set();
