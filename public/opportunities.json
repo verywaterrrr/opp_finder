@@ -1,5 +1,92 @@
 [
   {
+    "id": "hkust-1e0c7fc5804deea2",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "YDC Dare To Change Business Pitch Competition",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/ydc-dare-change-business-pitch-competition",
+    "verified": "2026-11-22T00:29:41.905Z"
+  },
+  {
+    "id": "hkust-3840dbef077222de",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Solidify Your Scent: DIY Workshop on Perfume Cream",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/solidify-your-scent-diy-workshop-perfume-cream-3",
+    "verified": "2026-11-22T00:29:41.905Z",
+    "date": "26 November 2026",
+    "startDate": "2026-11-26",
+    "time": "1:30pm – 3:00pm",
+    "schedule": [
+      {
+        "day": 4,
+        "startSlot": 27,
+        "endSlot": 30
+      }
+    ],
+    "endsAt": "2026-11-26T15:00:00+08:00"
+  },
+  {
+    "id": "hkust-a72b3b3cd115827e",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Wellness Wednesday: Preserved Flower Aroma Workshop",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/wellness-wednesday-preserved-flower-aroma-workshop",
+    "verified": "2026-11-22T00:29:41.905Z",
+    "date": "25 November 2026",
+    "startDate": "2026-11-25",
+    "time": "12:00pm – 2:00pm",
+    "schedule": [
+      {
+        "day": 3,
+        "startSlot": 24,
+        "endSlot": 28
+      }
+    ],
+    "endsAt": "2026-11-25T14:00:00+08:00"
+  },
+  {
+    "id": "hkust-248a9beb1556f949",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "HKUST IAS-Asia Pacific Workshop - Frontiers in Quantum Matter",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/hkust-ias-asia-pacific-workshop-frontiers-quantum-matter-0",
+    "verified": "2026-11-22T00:29:41.905Z"
+  },
+  {
+    "id": "hkust-71daf380434ebde4",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Define Your HKUST Fun - Graphic Design Competition",
+    "org": "HKUST University Event Calendar",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
+    "verified": "2026-11-22T00:29:41.905Z"
+  },
+  {
     "id": "cityu-85e9c1f641d4ca41",
     "cities": [
       "Hong Kong"
@@ -13,7 +100,7 @@
     "startDate": "2026-12-31",
     "endsAt": "2026-12-31T23:59:59+08:00",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=38084",
-    "verified": "2026-11-21T01:36:32.849Z"
+    "verified": "2026-11-22T00:29:38.421Z"
   },
   {
     "id": "cityu-ca1e9306673a171c",
@@ -32,44 +119,7 @@
     "deadlineLabel": "11 December 2026",
     "registrationUrl": "https://forms.gle/tcbGETfRXQftLUXe7",
     "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40450",
-    "verified": "2026-11-21T01:36:32.385Z"
-  },
-  {
-    "id": "hkust-1e0c7fc5804deea2",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "YDC Dare To Change Business Pitch Competition",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/ydc-dare-change-business-pitch-competition",
-    "verified": "2026-11-21T01:36:30.478Z"
-  },
-  {
-    "id": "hkust-3840dbef077222de",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Solidify Your Scent: DIY Workshop on Perfume Cream",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/solidify-your-scent-diy-workshop-perfume-cream-3",
-    "verified": "2026-11-21T01:36:30.478Z",
-    "date": "26 November 2026",
-    "startDate": "2026-11-26",
-    "time": "1:30pm – 3:00pm",
-    "schedule": [
-      {
-        "day": 4,
-        "startSlot": 27,
-        "endSlot": 30
-      }
-    ],
-    "endsAt": "2026-11-26T15:00:00+08:00"
+    "verified": "2026-11-22T00:29:38.053Z"
   },
   {
     "id": "cuhk-6c537d8bbc97814d",
@@ -84,31 +134,7 @@
     "deadline": "2026-07-31T15:59:59.000Z",
     "deadlineLabel": "2026-07-31",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/2026-jing-gang-qing-chuang-bei",
-    "verified": "2026-11-21T01:36:31.793Z"
-  },
-  {
-    "id": "hkust-a72b3b3cd115827e",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Wellness Wednesday: Preserved Flower Aroma Workshop",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/wellness-wednesday-preserved-flower-aroma-workshop",
-    "verified": "2026-11-21T01:36:30.478Z",
-    "date": "25 November 2026",
-    "startDate": "2026-11-25",
-    "time": "12:00pm – 2:00pm",
-    "schedule": [
-      {
-        "day": 3,
-        "startSlot": 24,
-        "endSlot": 28
-      }
-    ],
-    "endsAt": "2026-11-25T14:00:00+08:00"
+    "verified": "2026-11-22T00:29:37.916Z"
   },
   {
     "id": "cuhk-8514c23534b03367",
@@ -124,20 +150,7 @@
     "deadlineLabel": "19 October 2026",
     "registrationUrl": "https://www.gonghangbei.com/",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-1st-hong-kong-university-fintech-innovation-competition",
-    "verified": "2026-11-21T01:36:31.530Z"
-  },
-  {
-    "id": "hkust-248a9beb1556f949",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "HKUST IAS-Asia Pacific Workshop - Frontiers in Quantum Matter",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/hkust-ias-asia-pacific-workshop-frontiers-quantum-matter-0",
-    "verified": "2026-11-21T01:36:30.478Z"
+    "verified": "2026-11-22T00:29:37.623Z"
   },
   {
     "id": "cuhk-ea5e6faf7689899b",
@@ -154,20 +167,7 @@
     "eligibility": "】 參賽主體須為在本屆大賽報名截止前尚未注冊企業的團隊，或已注冊但融資階段未超過兩輪（即種子輪、天使輪）的初創企業。 【",
     "registrationUrl": "https://fairylakecompetition.cuhk.edu.cn/home",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/fairy-lake-2026",
-    "verified": "2026-11-21T01:36:31.281Z"
-  },
-  {
-    "id": "hkust-71daf380434ebde4",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Define Your HKUST Fun - Graphic Design Competition",
-    "org": "HKUST University Event Calendar",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://calendar.hkust.edu.hk/events/define-your-hkust-fun-graphic-design-competition",
-    "verified": "2026-11-21T01:36:30.478Z"
+    "verified": "2026-11-22T00:29:37.319Z"
   },
   {
     "id": "cuhk-66b063a475cce337",
@@ -183,7 +183,7 @@
     "deadlineLabel": "30 November 2026",
     "registrationUrl": "https://awnjufzky2h.feishu.cn/share/base/form/shrcn9Y3Mawe4TYgMH4FiIq3aYe",
     "sourceUrl": "https://kto.cuhk.edu.hk/en/news-events/events/others/the-changjiang-cup-2026-global-ai-protein-design-challenge",
-    "verified": "2026-11-21T01:36:31.035Z"
+    "verified": "2026-11-22T00:29:37.005Z"
   },
   {
     "id": "ec-5ac482582d5e8b66",
@@ -198,7 +198,7 @@
     "deadline": "2026-11-22T15:59:00Z",
     "deadlineLabel": "22 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/application-ccmf-and-cip-feb-2027-intake-cyberport-entrepreneurship-programme-information",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-76b79ee45844c4f6",
@@ -213,7 +213,7 @@
     "deadline": "2026-11-25T04:00:00Z",
     "deadlineLabel": "25 Nov 2026 - 12:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/orbis-future-vision-leaders-2627",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-95fd638706fa53b1",
@@ -228,7 +228,7 @@
     "deadline": "2026-10-25T15:59:59Z",
     "deadlineLabel": "25 Oct 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-gba-learning-trip-xianggangkejidaxue-1",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-13afea78d408ba4b",
@@ -243,7 +243,7 @@
     "deadline": "2026-11-19T15:59:00Z",
     "deadlineLabel": "19 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/talk-beyond-patent-filing-ip-strategy-and-gba-essentials-startup-founders",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-981f9ffe3f5303d9",
@@ -258,7 +258,7 @@
     "deadline": "2026-11-24T09:00:00Z",
     "deadlineLabel": "24 Nov 2026 - 17:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/cyberport-greater-bay-area-young-entrepreneurship-programme-2026-information-session",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-150016c318b0adfb",
@@ -273,7 +273,7 @@
     "deadline": "2026-11-25T04:00:00Z",
     "deadlineLabel": "25 Nov 2026 - 12:00",
     "sourceUrl": "https://ec.hkust.edu.hk/events/zhenfund-hkust-startup-talk-building-whats-next-ai-zhengexiaoyuanxing",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-bb499563359b65e9",
@@ -288,7 +288,7 @@
     "deadline": "2026-11-27T15:59:00Z",
     "deadlineLabel": "27 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/cyberport-greater-bay-area-young-entrepreneurship-programme-2026",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-1e2ba973771366bd",
@@ -303,7 +303,7 @@
     "deadline": "2026-11-30T15:59:59Z",
     "deadlineLabel": "30 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/youthx-global-campus-innovation-challenge-2027",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "ec-d3979eaddd06fcf4",
@@ -318,7 +318,7 @@
     "deadline": "2026-12-11T15:59:59Z",
     "deadlineLabel": "11 Dec 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/cigna-healthcare-x-ja-healthnext-challenge-202627",
-    "verified": "2026-11-21T01:36:30.151Z"
+    "verified": "2026-11-22T00:29:35.944Z"
   },
   {
     "id": "cse-369338abb8efbbd2",
@@ -333,7 +333,7 @@
     "deadline": "2026-11-30T23:59:59+08:00",
     "deadlineLabel": "2026-11-30",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3628",
-    "verified": "2026-11-21T01:36:30.059Z"
+    "verified": "2026-11-22T00:29:35.933Z"
   },
   {
     "id": "cse-91f760e6dbfe62ad",
@@ -348,7 +348,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3625",
-    "verified": "2026-11-21T01:36:30.059Z"
+    "verified": "2026-11-22T00:29:35.933Z"
   },
   {
     "id": "cse-f14f024111b20b0d",
@@ -363,7 +363,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3624",
-    "verified": "2026-11-21T01:36:30.059Z"
+    "verified": "2026-11-22T00:29:35.933Z"
   },
   {
     "id": "cse-3a361a6f14eaa6ab",
@@ -378,22 +378,7 @@
     "deadline": "2026-11-25T23:59:59+08:00",
     "deadlineLabel": "2026-11-25",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3623",
-    "verified": "2026-11-21T01:36:30.059Z"
-  },
-  {
-    "id": "cse-a3a7c0ae70dceed1",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Internships",
-    "title": "Quant Developer Intern - Hong Kong 2027",
-    "org": "Marshall Wace",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2027-01-31T23:59:59+08:00",
-    "deadlineLabel": "2027-01-31",
-    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3671",
-    "verified": "2026-11-21T01:36:30.059Z"
+    "verified": "2026-11-22T00:29:35.933Z"
   },
   {
     "id": "cse-9f31ec9b9f5d62f5",
@@ -408,7 +393,22 @@
     "deadline": "2027-01-31T23:59:59+08:00",
     "deadlineLabel": "2027-01-31",
     "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3670",
-    "verified": "2026-11-21T01:36:30.059Z"
+    "verified": "2026-11-22T00:29:35.933Z"
+  },
+  {
+    "id": "cse-a3a7c0ae70dceed1",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Internships",
+    "title": "Quant Developer Intern - Hong Kong 2027",
+    "org": "Marshall Wace",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2027-01-31T23:59:59+08:00",
+    "deadlineLabel": "2027-01-31",
+    "sourceUrl": "https://cse.hkust.edu.hk/ug/career/service/internship/Password_Only/app/index.php/job/3671",
+    "verified": "2026-11-22T00:29:35.933Z"
   },
   {
     "id": "hackertrip-a43444acd377319d",
@@ -422,7 +422,7 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-delin-residency-564a235f",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-fc16c17d1a7a45f5",
@@ -437,7 +437,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-ojo-buildathon-2-19e548e9",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-a487022cb7302d03",
@@ -452,7 +452,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-ai-opc-27f220b0",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-7f72483ff814a62d",
@@ -467,7 +467,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-aa21e54a53",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-dd3a5f60626a5cd3",
@@ -482,7 +482,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-9161c5",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-2ad8b2b14c7d79ac",
@@ -497,7 +497,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-agent-7d217b3a",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-cb650275fe3f8e1b",
@@ -512,7 +512,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-baytech-2e196c3b",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-cbbeb66e19098f42",
@@ -527,7 +527,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-eonverax-builder-688fb5e6",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-c96592c4800a0163",
@@ -542,7 +542,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/mp-d6dc5a103a5679140ff1c2b9",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-723a3466e44da7c7",
@@ -557,7 +557,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-anker2026",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-7bdd726c61993c3a",
@@ -572,7 +572,7 @@
     "tags": [],
     "status": "Closed",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-d2be1b09ff",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
   },
   {
     "id": "hackertrip-3d8c863dea5afc33",
@@ -587,7 +587,196 @@
     "tags": [],
     "status": "Unknown",
     "sourceUrl": "https://hackertrip.space/hackathon/ht-2026-2beb1cb6",
-    "verified": "2026-11-21T01:36:29.230Z"
+    "verified": "2026-11-22T00:29:34.874Z"
+  },
+  {
+    "id": "cityu-6375b81106c6899e",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Networking",
+    "title": "FSDC Talent Day 2026 – The C-Suite Exchange: Real-World Insights, Direct Connections",
+    "org": "CityUHK Career and Student Enrichment",
+    "tags": [],
+    "status": "Unknown",
+    "date": "13 November 2026",
+    "startDate": "2026-11-13",
+    "endsAt": "2026-11-13T23:59:59+08:00",
+    "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40416",
+    "verified": "2026-11-13T07:06:50.632Z"
+  },
+  {
+    "id": "ec-a2d72fbc37e4f1c2",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-15T15:59:59Z",
+    "deadlineLabel": "15 Nov 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop",
+    "verified": "2026-11-13T04:44:26.247Z"
+  },
+  {
+    "id": "pmi-2027",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Case competitions",
+    "title": "Project Management Case Competition 2027",
+    "org": "PMI Hong Kong Student Club",
+    "date": "Late Nov 2026 – Feb 2027",
+    "deadline": "2026-10-28T23:59:00+08:00",
+    "deadlineLabel": "28 Oct 2026",
+    "format": "In person",
+    "tags": [],
+    "eligibility": "Undergraduate students at institutions in Hong Kong",
+    "status": "Closed",
+    "sourceUrl": "https://pmihkstudentclub.org.hk/events/project-management-case-competition-2027",
+    "verified": "12 Nov 2026"
+  },
+  {
+    "id": "sieia-shenzhen-2026",
+    "cities": [
+      "Shenzhen"
+    ],
+    "category": "Other",
+    "title": "2026中国互联网发展创新与投资大赛（深圳）",
+    "org": "深圳市互联网创业创新服务促进会",
+    "deadline": "2026-11-14T23:59:59+08:00",
+    "deadlineLabel": "14 Nov 2026",
+    "tags": [],
+    "eligibility": "创客组欢迎拥有科技创新成果和创业计划的团队或个人，包括大学生创业团队；项目需符合大赛条件",
+    "status": "Unknown",
+    "sourceUrl": "https://sieia.cn/index/index/activity_details.html?id=88",
+    "registrationUrl": "https://sieia.cn/index/index/activity_details.html?id=88",
+    "verified": "13 Nov 2026"
+  },
+  {
+    "id": "hkpc-act-2027",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "ACT Student Development Programme 2027",
+    "org": "Hong Kong Productivity Council",
+    "date": "January – June 2027",
+    "deadline": "2026-11-20T23:59:59+08:00",
+    "deadlineLabel": "20 Nov 2026",
+    "format": "In person",
+    "tags": [
+      "All years welcome"
+    ],
+    "eligibility": "Students pursuing a bachelor’s degree or below in Computer Science or Cybersecurity at a Hong Kong higher education institution",
+    "eligibleYears": [
+      "Year 1",
+      "Year 2",
+      "Year 3",
+      "Year 4",
+      "Year 5",
+      "Year 6"
+    ],
+    "status": "Open",
+    "sourceUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
+    "registrationUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
+    "verified": "12 Nov 2026"
+  },
+  {
+    "id": "ec-d5f4352f0d0fc03f",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "HKUST Dream Builder",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-07-05T15:59:59Z",
+    "deadlineLabel": "05 Jul 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-dream-builder",
+    "verified": "2026-11-17T02:59:55.052Z"
+  },
+  {
+    "id": "ec-39099cebb402f6bd",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "HKUST Mentorship Network: Pitching Skills Workshop",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-11T15:59:00Z",
+    "deadlineLabel": "11 Nov 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-mentorship-network-pitching-skills-workshop",
+    "verified": "2026-11-17T02:59:55.052Z"
+  },
+  {
+    "id": "ec-00b7457a05aca712",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Workshops",
+    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop & Hong Kong Semi Final",
+    "org": "HKUST Entrepreneurship Center",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-11-15T15:59:59Z",
+    "deadlineLabel": "15 Nov 2026 - 23:59",
+    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop-hong-kong-semi-final",
+    "verified": "2026-11-17T02:59:55.052Z"
+  },
+  {
+    "id": "hku-tec-4cbf6c840fc616a9",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "Jumpstarter 2027",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Build Track: University students & ideation-stage entrepreneurs.Scale Track: Startups raised <US$20M with global expansion plans.",
+    "tags": [],
+    "status": "Unknown",
+    "sourceUrl": "https://www.jumpstarter.hk/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-6aa365cbd83a9bb8",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Other",
+    "title": "HULT Prize 2027",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "University students (undergrad/grad) or recent grads.Teams of 1 to 4 members, age 18 or older.",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2027-02-28T15:59:59.000Z",
+    "deadlineLabel": "28 February 2027",
+    "sourceUrl": "https://www.hultprize.org/en/register/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
+  },
+  {
+    "id": "hku-tec-0367df7c8a16b263",
+    "cities": [
+      "Hong Kong"
+    ],
+    "category": "Hackathons",
+    "title": "Hong Kong Techathon+",
+    "org": "HKU Techno-Entrepreneurship Core",
+    "eligibility": "Students and alumni from HKU and the other co-organising universities with technology-related business ideas are welcome",
+    "tags": [],
+    "status": "Unknown",
+    "deadline": "2026-01-06T15:59:59.000Z",
+    "deadlineLabel": "6 January 2026",
+    "sourceUrl": "https://tec.hku.hk/event/cupp2025/",
+    "evidenceUrl": "https://tec.hku.hk/competitions/",
+    "verified": "2026-11-14T00:56:01.764Z"
   },
   {
     "id": "hku-tec-801f0e7c0b920045",
@@ -808,194 +997,5 @@
     "deadlineLabel": "18 Nov 2026 - 23:59",
     "sourceUrl": "https://ec.hkust.edu.hk/events/friday-dreamer-series-turn-passion-business-antipixel",
     "verified": "2026-11-20T01:48:56.153Z"
-  },
-  {
-    "id": "cityu-6375b81106c6899e",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Networking",
-    "title": "FSDC Talent Day 2026 – The C-Suite Exchange: Real-World Insights, Direct Connections",
-    "org": "CityUHK Career and Student Enrichment",
-    "tags": [],
-    "status": "Unknown",
-    "date": "13 November 2026",
-    "startDate": "2026-11-13",
-    "endsAt": "2026-11-13T23:59:59+08:00",
-    "sourceUrl": "https://www.cb.cityu.edu.hk/careerdevelopment/news/events/eventDetails/?id=40416",
-    "verified": "2026-11-13T07:06:50.632Z"
-  },
-  {
-    "id": "ec-a2d72fbc37e4f1c2",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop",
-    "org": "HKUST Entrepreneurship Center",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-15T15:59:59Z",
-    "deadlineLabel": "15 Nov 2026 - 23:59",
-    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop",
-    "verified": "2026-11-13T04:44:26.247Z"
-  },
-  {
-    "id": "pmi-2027",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Case competitions",
-    "title": "Project Management Case Competition 2027",
-    "org": "PMI Hong Kong Student Club",
-    "date": "Late Nov 2026 – Feb 2027",
-    "deadline": "2026-10-28T23:59:00+08:00",
-    "deadlineLabel": "28 Oct 2026",
-    "format": "In person",
-    "tags": [],
-    "eligibility": "Undergraduate students at institutions in Hong Kong",
-    "status": "Closed",
-    "sourceUrl": "https://pmihkstudentclub.org.hk/events/project-management-case-competition-2027",
-    "verified": "12 Nov 2026"
-  },
-  {
-    "id": "sieia-shenzhen-2026",
-    "cities": [
-      "Shenzhen"
-    ],
-    "category": "Other",
-    "title": "2026中国互联网发展创新与投资大赛（深圳）",
-    "org": "深圳市互联网创业创新服务促进会",
-    "deadline": "2026-11-14T23:59:59+08:00",
-    "deadlineLabel": "14 Nov 2026",
-    "tags": [],
-    "eligibility": "创客组欢迎拥有科技创新成果和创业计划的团队或个人，包括大学生创业团队；项目需符合大赛条件",
-    "status": "Unknown",
-    "sourceUrl": "https://sieia.cn/index/index/activity_details.html?id=88",
-    "registrationUrl": "https://sieia.cn/index/index/activity_details.html?id=88",
-    "verified": "13 Nov 2026"
-  },
-  {
-    "id": "hkpc-act-2027",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "ACT Student Development Programme 2027",
-    "org": "Hong Kong Productivity Council",
-    "date": "January – June 2027",
-    "deadline": "2026-11-20T23:59:59+08:00",
-    "deadlineLabel": "20 Nov 2026",
-    "format": "In person",
-    "tags": [
-      "All years welcome"
-    ],
-    "eligibility": "Students pursuing a bachelor’s degree or below in Computer Science or Cybersecurity at a Hong Kong higher education institution",
-    "eligibleYears": [
-      "Year 1",
-      "Year 2",
-      "Year 3",
-      "Year 4",
-      "Year 5",
-      "Year 6"
-    ],
-    "status": "Open",
-    "sourceUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
-    "registrationUrl": "https://careers.hkpc.org/job/ACT-Student-Development-Programme-2027/1369616166/",
-    "verified": "12 Nov 2026"
-  },
-  {
-    "id": "ec-d5f4352f0d0fc03f",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "HKUST Dream Builder",
-    "org": "HKUST Entrepreneurship Center",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-07-05T15:59:59Z",
-    "deadlineLabel": "05 Jul 2026 - 23:59",
-    "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-dream-builder",
-    "verified": "2026-11-17T02:59:55.052Z"
-  },
-  {
-    "id": "ec-39099cebb402f6bd",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "HKUST Mentorship Network: Pitching Skills Workshop",
-    "org": "HKUST Entrepreneurship Center",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-11T15:59:00Z",
-    "deadlineLabel": "11 Nov 2026 - 23:59",
-    "sourceUrl": "https://ec.hkust.edu.hk/events/hkust-mentorship-network-pitching-skills-workshop",
-    "verified": "2026-11-17T02:59:55.052Z"
-  },
-  {
-    "id": "ec-00b7457a05aca712",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Workshops",
-    "title": "Global Student Entrepreneur Awards (GSEA) 2026 - 2027: Scaling Up Mini Workshop & Hong Kong Semi Final",
-    "org": "HKUST Entrepreneurship Center",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-11-15T15:59:59Z",
-    "deadlineLabel": "15 Nov 2026 - 23:59",
-    "sourceUrl": "https://ec.hkust.edu.hk/events/global-student-entrepreneur-awards-gsea-2026-2027-scaling-mini-workshop-hong-kong-semi-final",
-    "verified": "2026-11-17T02:59:55.052Z"
-  },
-  {
-    "id": "hku-tec-4cbf6c840fc616a9",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "Jumpstarter 2027",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Build Track: University students & ideation-stage entrepreneurs.Scale Track: Startups raised <US$20M with global expansion plans.",
-    "tags": [],
-    "status": "Unknown",
-    "sourceUrl": "https://www.jumpstarter.hk/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-14T00:56:01.764Z"
-  },
-  {
-    "id": "hku-tec-6aa365cbd83a9bb8",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Other",
-    "title": "HULT Prize 2027",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "University students (undergrad/grad) or recent grads.Teams of 1 to 4 members, age 18 or older.",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2027-02-28T15:59:59.000Z",
-    "deadlineLabel": "28 February 2027",
-    "sourceUrl": "https://www.hultprize.org/en/register/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-14T00:56:01.764Z"
-  },
-  {
-    "id": "hku-tec-0367df7c8a16b263",
-    "cities": [
-      "Hong Kong"
-    ],
-    "category": "Hackathons",
-    "title": "Hong Kong Techathon+",
-    "org": "HKU Techno-Entrepreneurship Core",
-    "eligibility": "Students and alumni from HKU and the other co-organising universities with technology-related business ideas are welcome",
-    "tags": [],
-    "status": "Unknown",
-    "deadline": "2026-01-06T15:59:59.000Z",
-    "deadlineLabel": "6 January 2026",
-    "sourceUrl": "https://tec.hku.hk/event/cupp2025/",
-    "evidenceUrl": "https://tec.hku.hk/competitions/",
-    "verified": "2026-11-14T00:56:01.764Z"
   }
 ]
